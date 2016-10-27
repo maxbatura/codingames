@@ -1,0 +1,1 @@
+echo in_array($a=min(array_map(abs,$f=split(" ",file('php://stdin')[1]))),$f)?$a:-$a;
